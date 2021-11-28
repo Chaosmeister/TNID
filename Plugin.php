@@ -34,6 +34,6 @@ class Plugin extends Base
     
     public function getPluginHomepage()
     {
-        return "https://github.com/Chaosmeister/TNID"
+        return "https://github.com/Chaosmeister/TNID";
     }
 }
